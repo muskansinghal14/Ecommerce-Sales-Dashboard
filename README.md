@@ -15,3 +15,6 @@ With Power BI, I've transformed raw data into visually stunning, interactive ins
 
 ![Madhav Sales Dashboard](https://github.com/muskansinghal14/Ecommerce-Sales-Dashboard/assets/140623673/0df92987-c926-4aea-9475-be05fab006ca)
 
+## QUARTER-1 WISE CHANGES IN DASHBOARD
+
+![Sales Dashboard](https://github.com/muskansinghal14/Ecommerce-Sales-Dashboard/assets/140623673/6ed62dd7-6bbd-4415-8afa-8d0271f3b198)
