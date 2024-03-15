@@ -13,5 +13,5 @@ With Power BI, I've transformed raw data into visually stunning, interactive ins
 
 • Crafting different types of customized visualizations (bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map slicer, and more)🗺️
 
-
+![Madhav Sales Dashboard](https://github.com/muskansinghal14/Ecommerce-Sales-Dashboard/assets/140623673/0df92987-c926-4aea-9475-be05fab006ca)
 
